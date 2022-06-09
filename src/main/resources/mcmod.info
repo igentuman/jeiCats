@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "jeicats",
+    "name": "JEI Categories",
+    "description": "Shows additional recipes in JEI",
+    "version": "1.0.0",
+    "mcversion": "${mc_version}",
+    "authorList": [
+      "igentuman"
+    ],
+    "credits": ""
+  }
+]
